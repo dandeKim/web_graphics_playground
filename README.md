@@ -2,3 +2,4 @@
 
 - [Bounce Ball](/bounceBall)
 - [Wave](/wave)
+- [Gradient](/gradient)
