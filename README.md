@@ -4,3 +4,4 @@
 - [Wave](/wave)
 - [Gradient](/gradient)
 - [Rotating Polygon](/rotatingPolygon)
+- [Color Picker](/colorPicker)
